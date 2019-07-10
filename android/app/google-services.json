@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451234057940",
+    "firebase_url": "https://ml-app-448ad.firebaseio.com",
+    "project_id": "ml-app-448ad",
+    "storage_bucket": "ml-app-448ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451234057940:android:bb97b1e1e3609730",
+        "android_client_info": {
+          "package_name": "com.yabaiwebyasan.ml_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451234057940-kpmctqrspjnr0q5g60ds49cnnek1ps8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDePgwjELZ5ZoIjJDLcb2cPrB2jDtK3wzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451234057940-kpmctqrspjnr0q5g60ds49cnnek1ps8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
